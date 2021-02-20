@@ -1,4 +1,4 @@
-# react-native-formatted-text
+# react-native-popup-view
 
 A flexible way to show several types of popup views in React Native.
 
@@ -15,13 +15,13 @@ A flexible way to show several types of popup views in React Native.
 If using yarn:
 
 ```
-yarn add react-native-popup
+yarn add react-native-popup-view
 ```
 
 If using npm:
 
 ```
-npm i react-native-popup
+npm i react-native-popup-view
 ```
 
 ## Usage
