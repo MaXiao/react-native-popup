@@ -1,6 +1,6 @@
 {
   "name": "react-native-popup-view",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "A flexible way to show popup views, such as toast, tooltip, action sheet etc, in React Native",
   "repository": "https://github.com/MaXiao/react-native-popup",
   "author": "Xiao Ma",

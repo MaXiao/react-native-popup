@@ -7,9 +7,9 @@ A flexible way to show several types of popup views in React Native.
 * Customizable in many ways 
 
 ## Example
-![](assets/example.png) 
+![](assets/example.gif) 
 
-[examples/App.js](examples/App.js)
+[example/Main.js](example/Main.js)
 
 ## Installation
 If using yarn:
