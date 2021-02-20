@@ -1,0 +1,7 @@
+const TOAST_DURATION = {
+  SHORT: 1000,
+  NORMAL: 3000,
+  LONG: 5000,
+};
+
+export default TOAST_DURATION;

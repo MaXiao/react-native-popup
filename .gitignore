@@ -1,0 +1,18 @@
+# Logs
+*.log
+npm-debug.log
+
+# Runtime data
+tmp
+build
+dist
+
+# generated files by bob
+lib/
+
+# Dependency directory
+node_modules
+
+# Personal setup
+.DS_Store
+.idea
